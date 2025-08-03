@@ -1,5 +1,5 @@
 package main
 
 func main2() {
-	println("Hello from MAIN - main2.go")
+    println("MAIN: Conflicting logic in main2.go")
 }
