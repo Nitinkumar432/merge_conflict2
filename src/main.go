@@ -1,5 +1,5 @@
 package main
 
 func main() {
-    println("Feature: Updated logic in main.go")
+    println("MAIN: Conflicting logic in main.go")
 }
